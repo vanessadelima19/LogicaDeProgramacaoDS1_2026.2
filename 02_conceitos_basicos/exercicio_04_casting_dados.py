@@ -10,3 +10,9 @@ Imprima a idade calculada com uma mensagem personalizada.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+from tarfile import data_filter
+data = str(input("Digite seu ano de nascimento: "))
+nome = str(input("Digite seu nome: "))
+nascimento = int(data)
+idade_final = 2026-nascimento
+print(f"Olá {nome}, até o final de 2026 você terá: {idade_final} anos")

@@ -1,4 +1,7 @@
 # TODO: Declare as variáveis abaixo e execute a célula para testar
+from builtins import print
+
+
 nome_produto = "Gloss"
 quantidade_estoque = 200.0
 preco_unitario = 50.0
