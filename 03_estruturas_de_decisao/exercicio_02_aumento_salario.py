@@ -14,3 +14,9 @@ Imprima: novo salário, valor do reajuste ganho e percentual aplicado.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+salario = float(input("Digite o sálario do colaborador:"))
+if salario <= 400:
+    percentual = 15
+elif salario <= 800:
+    percentual = 12
+    
