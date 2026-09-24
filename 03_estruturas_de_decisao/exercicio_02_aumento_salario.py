@@ -1,5 +1,5 @@
 """
-EXERCÍCIO 02: Aumento de Salário Escolar
+EXERCÍCIO 02: Aumento de Salário Escolar s
 Disciplina: Lógica de Programação com Python
 
 ENUNCIADO:

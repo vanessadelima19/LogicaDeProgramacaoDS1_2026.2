@@ -1,5 +1,5 @@
 """
-EXERCÍCIO 01: Imposto de Renda de Lisarb
+EXERCÍCIO 01: Imposto de Renda de Lisarb s
 Disciplina: Lógica de Programação com Python
 
 ENUNCIADO:
