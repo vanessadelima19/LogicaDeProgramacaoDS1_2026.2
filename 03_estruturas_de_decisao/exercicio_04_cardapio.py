@@ -34,7 +34,7 @@ elif codigo == 5:
     comida = "Refrigerante"
     preco = 1.50
 else:
-    comida = "Item inválido"
+    comida = ("Item inválido")
     preco = 0
 
 total = preco * quantidade
