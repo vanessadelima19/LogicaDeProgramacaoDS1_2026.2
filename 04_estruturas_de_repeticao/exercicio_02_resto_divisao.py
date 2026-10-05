@@ -9,9 +9,10 @@ cujo resto da divisão por 5 seja igual a 2 ou igual a 3.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
-valor_x = int(input("Digite o valor de X:"))
-valor_y = int(input("Digite o valor de Y:"))
-
-for i in range(valor_x, valor_y + 1):
+x = int(input("Digite o valor de x: "))
+y = int(input("Digite o valor de y: "))
+min = min(x, y)
+max = max(x, y)
+for i in range(min, max + 1):
     if i % 5 == 2 or i % 5 == 3:
         print(i)

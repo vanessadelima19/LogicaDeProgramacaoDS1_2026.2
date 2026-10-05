@@ -5,7 +5,7 @@ Disciplina: Lógica de Programação com Python
 ENUNCIADO:
 Repita a leitura da senha até que o usuário digite a senha correta (2002).
 Para cada tentativa incorreta, imprima "Senha Invalida".
-Ao acertar, imprima "Acesso Permitido" e finalize o programa.
+Ao acertar, imprima "Acesso Permitido" e finalize 0 programa.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:

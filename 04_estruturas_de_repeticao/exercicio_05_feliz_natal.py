@@ -1,6 +1,6 @@
 """
 EXERCÍCIO 05: Feliz Nataaal!
-Disciplina: Lógica de Programação com Python
+Disciplina: Lógica de Programação com Python.
 
 ENUNCIADO:
 Receba um número inteiro I (nível de empolgação).

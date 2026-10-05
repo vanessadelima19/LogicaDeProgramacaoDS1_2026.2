@@ -1,4 +1,4 @@
-# TODO: Implemente a tabuada aqui
+# TODO: Implemente a tabuada aqui.
 
 # Escreva o laço for
 numero = int(input("Digite um número para ver a tabuada: "))

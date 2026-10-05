@@ -7,7 +7,7 @@ O laço de repetição do login está em loop infinito mesmo quando o usuário a
 
 SUA MISSÃO:
 1. Identifique por que o laço não encerra.
-2. Aplique o comando adequado de quebra de fluxo (break).
+2. Aplique o comando adequado de quebra de fluxo (break)..
 """
 
 # CÓDIGO ORIGINAL COM LOOP INFINITO:
