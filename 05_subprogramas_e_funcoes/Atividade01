@@ -1,0 +1,8 @@
+# TODO: Defina a função calcular_media e teste-a abaixo
+def calcular_media(nota1, nota2, nota3):
+    # Escreva o corpo da função
+    return (nota1 + nota2 + nota3) / 3
+
+# Teste com notas de exemplo
+media = calcular_media(8.5, 7.0, 9.5)
+print(f"Teste - Média esperada: 8.0 | Resultado: {media:.1f}")

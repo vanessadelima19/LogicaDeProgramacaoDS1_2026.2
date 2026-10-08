@@ -1,0 +1,9 @@
+# Escreva uma função `lambda` chamada `calcular_acrescimo` que receba um valor numérico e retorne esse valor com 10% de acréscimo.
+# TODO: Crie a função lambda aqui
+#calcular_acrescimo = None # Substitua pela expressão lambda
+
+# Teste
+valor = float(input("Digite um valor: "))
+calcular_acrescimo = lambda x:x * 1.10
+acrescimo = calcular_acrescimo(valor)
+print(f"Valor com 10% de acréscimo: {acrescimo:.2f}")
