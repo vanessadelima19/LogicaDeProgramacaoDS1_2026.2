@@ -12,5 +12,7 @@ def calcular_pontuacao_total(fase1, fase2, fase3):
     return fase1 + fase2 + fase3
 
 #Testes
-print(calcular_pontuacao_total(10, 20, 30))  # Deve imprimir 60
-print(calcular_pontuacao_total(5, 15, 25))   # Deve imprimir 45
+total = calcular_pontuacao_total(10, 20, 30) 
+print("Pontuação total:", total)
+total = calcular_pontuacao_total(5, 15, 25) 
+print("Pontuação total:", total)
