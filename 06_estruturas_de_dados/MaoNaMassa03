@@ -1,0 +1,6 @@
+veiculo = {
+    "modelo" : "Corola",
+    "marca" : "Toyota",
+    "ano" : 2026  }
+for chave, valor in veiculo.items():
+    print(chave, ":", valor)

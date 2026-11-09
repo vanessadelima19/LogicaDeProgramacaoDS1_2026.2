@@ -10,3 +10,8 @@ ENUNCIADO:
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+lista = ["Ryan Mesquita Damasceno"]
+lista.append(input("Qual o nome do primeiro monitor? "))
+lista.append(input("Qual o nome do segundo monitor? "))
+lista[0] = "novos monitores: "
+print(lista)

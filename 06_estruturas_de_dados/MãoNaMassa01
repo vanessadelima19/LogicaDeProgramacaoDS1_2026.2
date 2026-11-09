@@ -1,0 +1,10 @@
+
+carrinho_compra = []
+p1 = input("Qual o primeiro produto? ")
+p2 = input("Qual o segundo produto? ")
+p3 = input("Qual o terceiro produto? ")
+carrinho_compra.append(p1)
+carrinho_compra.append(p2)
+carrinho_compra.append(p3)
+carrinho_compra.sort()
+print(carrinho_compra)
