@@ -8,6 +8,7 @@ Calcule e imprima a Interseção (&) e a Diferença (-).
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+
 alunos_web ={ "Ana", "Liz", "Clara", "Lucas"}
 alunos_banco = {"Ana", "luiz", "Liz","João"}
 

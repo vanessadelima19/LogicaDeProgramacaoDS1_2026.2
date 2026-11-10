@@ -9,6 +9,7 @@ exibindo uma mensagem explicativa sobre imutabilidade.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+
 cidades = ("Tianguá", "São Benedito")
 try:
     cidades[1] = "Viçosa"

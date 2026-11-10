@@ -8,6 +8,7 @@ Leia uma matrícula via terminal e exiba a função correspondente cadastrada.
 """
 
 # TODO: Desenvolva o algoritmo abaixo:
+
 dicionario = {
     1: "Designer",
     2: "Programador",

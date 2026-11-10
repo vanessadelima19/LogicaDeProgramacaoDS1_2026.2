@@ -24,3 +24,4 @@ for aluno in alunos:
 print("Aluno:", aluno[0], 
     "| Média:", media,
     "| Situação:", situacao)
+
